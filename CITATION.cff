@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Jika anda menggunakan kod ini, sila petik seperti di bawah. / If you use this code, please cite it as below."
+title: "Kod pengesahan: Pemodelan topologi dan penguraian graf dalam anyaman ketupat tradisional"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/zainoryahya/ketupat-anyaman-graf"
+authors:
+  - family-names: Yahya
+    given-names: Zainor Ridzuan
+    affiliation: "Universiti Malaysia Perlis (UniMAP)"
+  - family-names: Yahya
+    given-names: Zainab
+    affiliation: "Universiti Malaysia Perlis (UniMAP)"
+    email: zainabyahya@unimap.edu.my
+  - family-names: Abu Hasan
+    given-names: Zabidi
+    affiliation: "Universiti Malaysia Perlis (UniMAP)"
+keywords:
+  - ketupat
+  - ethnomathematics
+  - graph decomposition
+  - transition system
+  - Brunnian link

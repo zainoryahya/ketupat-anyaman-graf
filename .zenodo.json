@@ -1,0 +1,13 @@
+{
+  "title": "Kod pengesahan: Pemodelan topologi dan penguraian graf dalam anyaman ketupat tradisional",
+  "upload_type": "software",
+  "description": "<p>Skrip Python yang mengesahkan setiap dakwaan berangka dalam manuskrip <em>Pemodelan topologi dan penguraian graf dalam anyaman ketupat tradisional</em> (dihantar ke Sains Malaysiana), serta menjana rajahnya. Termasuk carian tuntas ke atas semua 3^V sistem peralihan, semakan silang exact cover, Proposisi antiprisma (3 &le; m &le; 15), dan sifat Brunnian.</p><p>Python scripts that verify every numerical claim in the manuscript and generate its figures. Run <code>python jalankan_semua.py</code>.</p>",
+  "creators": [
+    {"name": "Yahya, Zainor Ridzuan", "affiliation": "Universiti Malaysia Perlis (UniMAP)"},
+    {"name": "Yahya, Zainab", "affiliation": "Universiti Malaysia Perlis (UniMAP)"},
+    {"name": "Abu Hasan, Zabidi", "affiliation": "Universiti Malaysia Perlis (UniMAP)"}
+  ],
+  "license": "MIT",
+  "keywords": ["ketupat", "ethnomathematics", "graph decomposition", "transition system", "Brunnian link", "straight-ahead walk"],
+  "access_right": "open"
+}
