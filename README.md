@@ -1,5 +1,7 @@
 # Ketupat: Pemodelan Topologi dan Penguraian Graf
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24071876.svg)](https://doi.org/10.5281/zenodo.24071876)
+
 Kod pengesahan bagi manuskrip **"Pemodelan topologi dan penguraian graf dalam anyaman ketupat tradisional: teorem, pengiraan dan pengesahan komputeran"** oleh Zainor Ridzuan Yahya, Zainab Yahya dan Zabidi Abu Hasan (Universiti Malaysia Perlis), dihantar ke *Sains Malaysiana*.
 
 Setiap nilai berangka dalam manuskrip dilindungi oleh `assert` dalam salah satu skrip di bawah. Jika skrip selesai tanpa ralat, kesemua dakwaannya lulus.
